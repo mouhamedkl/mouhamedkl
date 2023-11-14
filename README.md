@@ -49,4 +49,4 @@ You can view them in the repos below :arrow_down:
 
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=khalil2210&theme=dark&hide_border=false)<br/>
+<br/>
